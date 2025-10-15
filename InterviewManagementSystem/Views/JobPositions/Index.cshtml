@@ -1,0 +1,89 @@
+﻿@model IEnumerable<InterviewManagementSystem.Models.JobPosition>
+@using InterviewManagementSystem.Models
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@if (User.IsInRole("HR"))
+{
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+}
+<table id="tabela" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Requirements)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaxPositionsOpen)
+            </th>
+            <th>
+                Remaining Positions Left
+            </th>
+            @if (User.IsInRole("HR"))
+            {
+                <th></th>
+            }
+            </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            int remaining = @item.MaxPositionsOpen - @item.Candidates.Count(c => c.Status == Candidate.CandidateStatus.Accepted);
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Requirements)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaxPositionsOpen)
+                </td>
+                <td>@remaining</td>
+                @if (User.IsInRole("HR"))
+                {
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                        <button job-position="@item.Id" class="btn btn-link js-delete">Delete</button>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#tabela").DataTable();
+            $(".js-delete").on("click", function () {
+                var button = $(this);
+                bootbox.confirm("Are you sure you want to delete this Job Position?", function (result) {
+                    if (result) {
+                        $.ajax({
+                            url: "/JobPositions/Delete/" + button.attr("job-position"),
+                            method: "GET",
+                            success: function () {
+                                button.parents("tr").remove().draw();
+                            }
+                        });
+                    }
+                })
+            });
+        });
+    </script>
+}

@@ -1,0 +1,64 @@
+﻿@model InterviewManagementSystem.Models.Candidate
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Candidate</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.JobPosition.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobPosition.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CVPath)
+        </dt>
+
+        <dd>
+            @if (!string.IsNullOrEmpty(Model.CVPath))
+            {
+                <a href="@Url.Content(Model.CVPath)" target="_blank">Download CV</a>
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @if (User.IsInRole("HR"))
+    {
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) 
+}
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,87 @@
+﻿@model IEnumerable<InterviewManagementSystem.Models.Candidate>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table id="tabela" class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.JobPosition.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CVPath)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.JobPosition.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    <a href="@Url.Content(item.CVPath)" target="_blank">Download CV</a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @if (User.IsInRole("HR"))
+                    {
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id })
+                    }
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @if (User.IsInRole("HR"))
+                    {
+                        <button candidate-id="@item.Id" class="btn btn-link js-delete">Delete</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#tabela").DataTable();
+            $(".js-delete").on("click", function () {
+                var button = $(this);
+                bootbox.confirm("Are you sure you want to delete this candidate?", function (result) { 
+                    if (result) {
+                        $.ajax({
+                            url: "/Candidates/Delete/" + button.attr("candidate-id"),
+                            method: "GET",
+                            success: function () {
+                                button.parents("tr").remove().draw();
+                            }
+                        });
+                    }
+            })
+            });
+        });
+    </script>
+}

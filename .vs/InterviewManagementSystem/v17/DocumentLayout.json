@@ -1,0 +1,719 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\models\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\models\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\models\\interviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\models\\interviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|c:\\users\\angel\\source\\repos\\interviewmanagementsystem\\interviewmanagementsystem\\views\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\controllers\\interviewerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\controllers\\interviewerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\controllers\\interviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\controllers\\interviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\controllers\\jobpositionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\controllers\\jobpositionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\interviewers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\interviewers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\interviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\interviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\interviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\interviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\jobpositions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\jobpositions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\migrations\\202506041119351_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\migrations\\202506041119351_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\migrations\\202506041204570_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\migrations\\202506041204570_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\migrations\\202506041238010_addedenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\migrations\\202506041238010_addedenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\migrations\\202506041545482_addedstatusdefaultjobpostion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\migrations\\202506041545482_addedstatusdefaultjobpostion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\interviewers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\interviewers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\interviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\interviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\interviewers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\interviewers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\candidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\candidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\jobpositions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\jobpositions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\interviewers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\interviewers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\jobpositions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\jobpositions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\account\\addusertorole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\account\\addusertorole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\models\\addtorolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\models\\addtorolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_InterviewManagementSystem_20250604125907/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_InterviewManagementSystem_20250604125907/True/SqlTable/dbo.JobPositions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\interviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\interviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\interviewmanagementsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071574DE-4272-4B0A-B406-03639B7091FE}|InterviewManagementSystem\\InterviewManagementSystem.csproj|solutionrelative:interviewmanagementsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\JobPosition.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Models\\JobPosition.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\JobPosition.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Models\\JobPosition.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvw4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:08:38.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interviewer.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\Interviewer.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Models\\Interviewer.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\Interviewer.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Models\\Interviewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:08:27.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Models\\Interview.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\Interview.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Models\\Interview.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:02:54.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\Candidate.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Models\\Candidate.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:01:52.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobPositionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\JobPositionsController.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Controllers\\JobPositionsController.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\JobPositionsController.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Controllers\\JobPositionsController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowBMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:24:08.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T11:44:42.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InterviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\InterviewsController.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Controllers\\InterviewsController.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\InterviewsController.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Controllers\\InterviewsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwD8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:23:27.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterviewersController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\InterviewersController.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Controllers\\InterviewersController.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\InterviewersController.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Controllers\\InterviewersController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:23:52.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Candidates\\Index.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Candidates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Candidates\\Index.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Candidates\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T11:24:54.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Controllers\\CandidatesController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswIoAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:24:21.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviews\\Create.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Interviews\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviews\\Create.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Interviews\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T12:09:00.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviewers\\Details.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Interviewers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviewers\\Details.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Interviewers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T13:19:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviews\\Details.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Interviews\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviews\\Details.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Interviews\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T17:23:14.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Candidates\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Candidates\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Candidates\\Edit.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Candidates\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T11:38:30.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\JobPositions\\Index.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\JobPositions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\JobPositions\\Index.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\JobPositions\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T12:09:55.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:03:19.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "202506041119351_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Migrations\\202506041119351_Initial.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Migrations\\202506041119351_Initial.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Migrations\\202506041119351_Initial.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Migrations\\202506041119351_Initial.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:19:39.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "202506041204570_Second.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Migrations\\202506041204570_Second.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Migrations\\202506041204570_Second.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Migrations\\202506041204570_Second.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Migrations\\202506041204570_Second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:05:01.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "202506041238010_AddedEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Migrations\\202506041238010_AddedEnum.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Migrations\\202506041238010_AddedEnum.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Migrations\\202506041238010_AddedEnum.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Migrations\\202506041238010_AddedEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:38:06.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "202506041545482_AddedStatusDefaultJobPostion.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Migrations\\202506041545482_AddedStatusDefaultJobPostion.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Migrations\\202506041545482_AddedStatusDefaultJobPostion.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Migrations\\202506041545482_AddedStatusDefaultJobPostion.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Migrations\\202506041545482_AddedStatusDefaultJobPostion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:45:52.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviewers\\Index.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Interviewers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviewers\\Index.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Interviewers\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T13:13:26.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviewers\\Create.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Interviewers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviewers\\Create.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Interviewers\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T11:29:08.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\packages.config",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\packages.config",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\packages.config",
+              "RelativeToolTip": "InterviewManagementSystem\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-26T14:18:21.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviews\\Index.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Interviews\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviews\\Index.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Interviews\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T12:43:37.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Candidates\\Details.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Candidates\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Candidates\\Details.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Candidates\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T11:37:33.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\JobPositions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\JobPositions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\JobPositions\\Edit.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\JobPositions\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:52:07.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Models\\AccountViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:45:53.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Candidates\\Create.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Candidates\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Candidates\\Create.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Candidates\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T11:25:01.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviewers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Interviewers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviewers\\Edit.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Interviewers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T11:43:10.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Controllers\\ManageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:25:07.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:55:29.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\JobPositions\\Create.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\JobPositions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\JobPositions\\Create.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\JobPositions\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:40:26.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddUserToRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Account\\AddUserToRole.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Account\\AddUserToRole.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Account\\AddUserToRole.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Account\\AddUserToRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T13:23:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddToRoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\AddToRoleModel.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Models\\AddToRoleModel.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\AddToRoleModel.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Models\\AddToRoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:56:14.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Models\\IdentityModels.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:10:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbo.AspNetUserRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_InterviewManagementSystem_20250604125907/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_InterviewManagementSystem_20250604125907/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-23T11:05:02.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Content\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Content\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Content\\bootstrap.min.css",
+              "RelativeToolTip": "InterviewManagementSystem\\Content\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-05T10:44:11.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:41:41.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dbo.JobPositions.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_InterviewManagementSystem_20250604125907/True/SqlTable/dbo.JobPositions.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_InterviewManagementSystem_20250604125907/True/SqlTable/dbo.JobPositions.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-04T13:04:52.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviews\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Interviews\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Interviews\\Edit.cshtml",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Interviews\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T12:46:33.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Web.config",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Views\\Web.config",
+              "RelativeToolTip": "InterviewManagementSystem\\Views\\Web.config",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-04T12:02:29.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "InterviewManagementSystem\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\InterviewManagementSystem\\InterviewManagementSystem\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "InterviewManagementSystem\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:15:38.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
